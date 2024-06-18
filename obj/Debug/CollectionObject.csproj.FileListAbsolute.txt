@@ -1,0 +1,7 @@
+C:\Users\ALTIUS\source\repos\CollectionObject\bin\Debug\CollectionObject.exe.config
+C:\Users\ALTIUS\source\repos\CollectionObject\bin\Debug\CollectionObject.exe
+C:\Users\ALTIUS\source\repos\CollectionObject\bin\Debug\CollectionObject.pdb
+C:\Users\ALTIUS\source\repos\CollectionObject\obj\Debug\CollectionObject.csproj.AssemblyReference.cache
+C:\Users\ALTIUS\source\repos\CollectionObject\obj\Debug\CollectionObject.csproj.CoreCompileInputs.cache
+C:\Users\ALTIUS\source\repos\CollectionObject\obj\Debug\CollectionObject.exe
+C:\Users\ALTIUS\source\repos\CollectionObject\obj\Debug\CollectionObject.pdb
